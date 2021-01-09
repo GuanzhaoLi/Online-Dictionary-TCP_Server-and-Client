@@ -10,20 +10,20 @@ This is a online English dictionary implemented in Python which supports high co
 
 Claim your IP and port to build connection with client here. Now the default ones should be fine to play around in a local network.
 
-![scrcpy](image_help/image_md5.png) 
+![Alt text](https://github.com/GuanzhaoLi/Online-Dictionary-TCP_Server-and-Client/blob/main/image_help/%20image_md5.png)
 the server will use MySQL to store and read most of the data, including user account and password. Right now I'm using MD5 to hash the passwd. Change it if you like.
 
 
-==== 这部分应该用实际的页面效果 ====
+![Alt text](https://github.com/GuanzhaoLi/Online-Dictionary-TCP_Server-and-Client/blob/main/image_help/user_history.png)
 User can request his/her word checking history, either displayed in the console or downloaded in a txt file. 
 
 User can also update modify the dictionary and upload to the server to replace the current one.
 
 ## Client
-===== register image ====
+![Alt text](https://github.com/GuanzhaoLi/Online-Dictionary-TCP_Server-and-Client/blob/main/image_help/register.png)
 User can register their username and password
 
-==== check image ===
+![Alt text](https://github.com/GuanzhaoLi/Online-Dictionary-TCP_Server-and-Client/blob/main/image_help/check_word.png)
 check for word and definition
 
 
@@ -31,4 +31,4 @@ check for word and definition
 
 I'm using mysql so the two tables will be used and they should be created as:
 
-==== place holder for tables image =====
+![Alt text](https://github.com/GuanzhaoLi/Online-Dictionary-TCP_Server-and-Client/blob/main/image_help/sqltable.png)
