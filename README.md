@@ -6,7 +6,7 @@ This is a online English dictionary implemented in Python which supports high co
 # About the code
 
 ## Server:
-![Alt text](image_help/img_server_port.png) 
+![Alt text](https://github.com/GuanzhaoLi/Online-Dictionary-TCP_Server-and-Client/blob/main/image_help/img_server_port%20.png)
 
 Claim your IP and port to build connection with client here. Now the default ones should be fine to play around in a local network.
 
