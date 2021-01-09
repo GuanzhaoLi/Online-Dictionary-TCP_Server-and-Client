@@ -6,11 +6,11 @@ This is a online English dictionary implemented in Python which supports high co
 # About the code
 
 ## Server:
-==== place holder for img_server_port =======
+![scrcpy](image_help/img_server_port.png) 
 
 Claim your IP and port to build connection with client here. Now the default ones should be fine to play around in a local network.
 
-==== place holder for image_md5 ====
+![scrcpy](image_help/image_md5.png) 
 the server will use MySQL to store and read most of the data, including user account and password. Right now I'm using MD5 to hash the passwd. Change it if you like.
 
 
