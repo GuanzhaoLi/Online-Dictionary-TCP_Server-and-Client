@@ -6,7 +6,7 @@ This is a online English dictionary implemented in Python which supports high co
 # About the code
 
 ## Server:
-![scrcpy](image_help/img_server_port.png) 
+![Alt text](image_help/img_server_port.png) 
 
 Claim your IP and port to build connection with client here. Now the default ones should be fine to play around in a local network.
 
